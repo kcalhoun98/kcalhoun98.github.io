@@ -1,0 +1,38 @@
+body {
+    background-color: #fff5db;
+}
+
+.custom {
+    border: 0px solid black;
+    background-color:#45659c;
+}
+
+.custom-img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    float: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.title {
+    color: #fff5db;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title-text {
+    font-size: 60px;
+    background-color:#45659c;
+    color:#fff5db;
+     
+}
+
+#results {
+    color:#fff5db;
+    background-color:#45659c;
+    border: 3px solid black;
+    font-size: 30px;
+    width: 50%;
+    visibility: hidden;
+}
