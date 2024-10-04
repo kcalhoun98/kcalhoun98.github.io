@@ -1,7 +1,24 @@
-
 # **Bias Binding Wizard: Optimizing Your Quilting Workflow**
 
 Hey there, code wranglers and pixel pushers! 👋 Ready to dive into the surprisingly techy world of quilting? Buckle up, because we're about to debug your binding process!
+
+## How to Run this app
+There are two options:
+1. Download the index.html file and open it in your browser
+2. Click this link and run it on GitHub: [Run this on github: https://kcalhoun98.github.io](https://kcalhoun98.github.io)
+
+## Motivation
+Existing problem:  Tools that others have created are outdated and not simple to use.  Having a simple app with only one function seemed ideal.
+
+This tool for quilters doesn't require login, passwords, or anything other than knowing the length and width of your finished quilt and how wide a binding you want to cut.
+
+## Design Decisions
+
+- Clean page design with one user form
+- Single page web app, no login
+- Pure bootstrap5 and JavaScript
+- Desktop or mobile
+ 
 
 ## **Quilting: The OG Pixel Art**
 
