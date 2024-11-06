@@ -1,4 +1,6 @@
 # **Bias Binding Wizard: Optimizing Your Quilting Workflow**
+#### Video Demo:  https://youtu.be/pg-ieCLYCpw
+#### Description: An easy-to-use way to calculate the size of fabric square needed to make continuous bias binding for a quilt of a given width and length and binding width
 
 Hey there, code wranglers and pixel pushers! 👋 Ready to dive into the surprisingly techy world of quilting? Buckle up, because we're about to debug your binding process!
 
